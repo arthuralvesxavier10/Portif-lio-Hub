@@ -2,7 +2,15 @@
 Sou Arthur Alves Xavier, estudante de Engenharia de Software e servidor da Secretaria de Estado de Saúde, atuando em TI. Planejo e gerencio soluções que tornam sistemas e processos hospitalares mais ágeis, seguros e eficientes.
 
 💻 Sobre Mim
-Olá! Sou Arthur Alves Xavier, estudante de Engenharia de Software e servidor na Secretaria de Estado de Saúde, atuando na área de Tecnologia da Informação. Minha paixão é desenvolver soluções que tornam sistemas e processos hospitalares mais ágéis, seguros e eficientes, ajudando a melhorar o serviço público. 
+Olá! Sou Arthur Alves Xavier, estudante de Engenharia de Software e profissional de Tecnologia da Informação na Secretaria de Estado de Saúde. Minha paixão é desenvolver e gerenciar soluções que tornam os sistemas e processos hospitalares mais ágeis, seguros e eficientes, com o objetivo de melhorar o serviço público.
+
+Atualmente, busco aplicar as melhores práticas de Análise de Requisitos, Boas Práticas, Modelagem UML e Padrões de Projeto para resolver desafios complexos e aprimorar a gestão de saúde. Além disso, estou adquirindo conhecimentos em React, Node.js, APIs REST, SQL e NoSQL para construir soluções completas e robustas, combinando minha experiência prática com o aprendizado acadêmico.
+
+Informações de Contato
+
+E-mail: arthuralvesxavier011@gmail.com
+
+GitHub: https://github.com/arthuralvesxavier10 
 
 🎓 Formação Acadêmica
 
